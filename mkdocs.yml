@@ -1,0 +1,6 @@
+site_name: 'Arbeitszeit berechnen: ArbZG, Pausen & Dezimalstunden'
+site_description: 'Arbeitszeit berechnen nach dem Arbeitszeitgesetz: ArbZG, Pausen und Dezimalstunden.'
+nav:
+  - Startseite: index.md
+theme:
+  name: mkdocs
